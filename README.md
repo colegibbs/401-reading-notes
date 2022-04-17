@@ -9,3 +9,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Code 201 Reading Notes](https://colegibbs.github.io/201-reading-notes/)
 
 [Code 301 Reading Notes](https://colegibbs.github.io/301-reading-notes/)
+
+[SQL Practice](./SQL-practice.md)
