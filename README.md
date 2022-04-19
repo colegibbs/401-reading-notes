@@ -15,3 +15,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Growth Mindset](./growth-mindset.md)
 
 [Practice in the Terminal](./practice-it-the-terminal.md)
+
+[Reading 02](./read-02.md)
