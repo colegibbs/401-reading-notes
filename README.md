@@ -12,7 +12,6 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 
 [SQL Practice](./SQL-practice.md)
 
-[Growth Mindset](./growth-mindset.md)
 
 [Practice in the Terminal](./practice-it-the-terminal.md)
 
