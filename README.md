@@ -24,3 +24,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 05](./reading-05.md)
 
 [Reading 06](./reading-06.md)
+
+[Reading 07](./reading-07.md)
