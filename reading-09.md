@@ -69,4 +69,7 @@
 ## [Intro to Statistics](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
 
 - the guy in the last video scammed people
-- 
+
+## Bookmarks
+
+- [Statistics Module](https://docs.python.org/3/library/statistics.html)
