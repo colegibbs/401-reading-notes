@@ -39,4 +39,4 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 
 [Reading 14](./reading-14.md)
 
-[Reading 16](./reading-14.md)
+[Reading 16](./reading-16.md)
