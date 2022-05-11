@@ -12,7 +12,6 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 
 [SQL Practice](./SQL-practice.md)
 
-
 [Practice in the Terminal](./practice-it-the-terminal.md)
 
 [Reading 02](./read-02.md)
@@ -42,3 +41,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 16](./reading-16.md)
 
 [Reading 17](./reading-17.md)
+
+[Reading 18](./reading-18.md)
