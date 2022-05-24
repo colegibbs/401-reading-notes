@@ -21,7 +21,7 @@ re.search(pattern, string).group() # search() scans through the string to find t
 - if an escape character is proceded by a \ then it will be escaped otherwize \ is like any other char
 - \w lowercase w
 - \W uppercase W
-- \s matches a single white space 
+- \s matches a single white space
 - \S matches any character not part of the \s
 - \d matches decimal digit
 - \D matches any character not decimal digit
@@ -30,8 +30,8 @@ re.search(pattern, string).group() # search() scans through the string to find t
 - \r matches return
 - \A matches only at the start of the String. works accross multiple lines
 - \Z matches only at the end of the string
-- + checks if the preceding char appears one or more times
-- * checks if the preceding char appears zero or more times
+- "+" checks if the preceding char appears one or more times
+- "*" checks if the preceding char appears zero or more times
 - ? checks if the preceding char appears exactly zero or one time
 - {x} repead exactly x number of times
 - {x,} repeat at least x times or more
