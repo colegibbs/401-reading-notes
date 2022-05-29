@@ -53,3 +53,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 31](./reading-31.md)
 
 [Hash Tables](./hash-tables.md)
+
+[Reading 32](./reading-32.md)
