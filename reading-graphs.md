@@ -1,0 +1,58 @@
+# Reading: Graphs
+
+## The Graph Cheat Cheet
+
+- Non-linear data structure that is a collection of nodes(verticles) connected by line segments(edges)
+- Terms:
+  - Vertex = Also called a node; data object that can have zero or more adjacent vertices
+  - Edge = connection between two nodes
+  - Neighbor = adjacent nodes or nodes that are connected by an edge
+  - Degree = number of edges connected to the vertex
+- undirected graph
+  - edges does not move in a particular direction
+- directed graph
+  - also called a digraph
+  - each edge has a direction from one node to another
+- complete graphs
+  - each node is connected to all other nodes
+- connected graph
+  - each node has at least one edge
+  - a tree is a connected graph
+- disconnected
+  - a graph where one or more nodes have no edges or do not connect in some way to other nodes outside the island
+- acyclic
+  - a cycle is when a node can traverse back to itself
+  - a graph without cycles
+  - a directed acyclic graph also called DAG
+  - tree
+- cylic graph
+  - a graph that has cycles
+  - starts and ends at the same node
+- adjacency matrix
+  - way of representing a graph
+  - each rown and column sum must add up to one if and edge exists there
+  - sparse graph = few connections
+  - dense graph = many connection
+  - undirected graphs will be symmetric
+- adjacency list
+  - most common way of representation
+  - linked list or list that has the targe node followed by the ones that are connected to it
+  - if no connection then not on the list
+- Weighted Graphs
+  - numbers assigned to edges called weights
+  - a weighted matrix is a representation like the adjacency matrix, but instead of using 1 when there is an edge you use the edge weight number
+  - in a widthed adjacency list you just pair the targets node, connection node with the weight number of that edge connection
+- traversal
+  - like a tree
+- breadth first traversal
+  - started node specified when method is called
+  - as you traverse add the node to a visited set to keep track of where you've been so you don't get into an infanite loop
+  - closest to root out
+- depth first
+  - use a stack
+- Real world Use!
+  - GPS and Mapping
+  - Driving Directions
+  - Social Networks
+  - Airline Traffic
+  - Netflix uses graphs for suggestions
