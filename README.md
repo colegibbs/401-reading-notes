@@ -61,3 +61,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 34](./reading-34.md)
 
 [Reading Graphs](./reading-graphs.md)
+
+[Reading 36](./reading-36.md)
